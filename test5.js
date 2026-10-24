@@ -2,7 +2,7 @@ import { Unibase } from "./unibase.js";
 
 const ub = new Unibase(
     "http://localhost:5000", 
-    "ub_live_01cf910d6f0b3ebe3454a30497e93e39359e4708"
+    "YOUR_API_KEY_HERE"
 );
 
 async function seedSocialGraph() {

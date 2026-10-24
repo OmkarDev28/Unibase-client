@@ -1,1 +1,6 @@
 demo_upload
+node_modules/
+.env
+tempCodeRunnerFile.js
+# Optional: Ignore local test files if they aren't meant for the repo
+# test*.js
